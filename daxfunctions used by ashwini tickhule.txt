@@ -1,0 +1,4 @@
+Revenue Vs Target % = [Total Revenue] / sum(Sheet1[Target]) -1
+Revenue Vs Target(in Currency) = [Total Revenue] - sum(Sheet1[Target])
+Totalrevenue = SUM(Sheet1[Revenue]) + SUM(Sheet1[Registration_Fee]) + SUM(Sheet1[Partner_Fee]) + SUM(Sheet1[Baseline])
+ + SUM(Sheet1[Future Opportunities]) + SUM(Sheet1[Future_Opportunities_Into_RR])
